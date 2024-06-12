@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body {
+    background-color: #060605;
+  }
+
+ 
+#wrap {
+  width: 960px;
+  margin: auto;
+  background-color: rgb(236, 241, 245);
+  text-shadow: 5px 10px;
+  width: auto;
+}
+ 
+header {
+  padding: 40px;
+  height: 80px;
+}
+
+h1 {
+font-family:"Lobster",sans-serif;
+font-size: 5rem;
+text-align: center;
+}
+    
+
+ 
+nav {
+  padding: 8px 40px;
+  background-color: rgb(189, 13, 13);
+  color: white;
+}
+ 
+main {
+  padding: 40px;
+  height : 400px;
+}
+ 
+footer {
+  padding: 40px;
+  height: 40px;
+  background-color : black;           
+  color: white;
+}
